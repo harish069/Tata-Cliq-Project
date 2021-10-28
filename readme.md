@@ -11,7 +11,7 @@ As a part of our build week we were given a problem statement to clone the websi
 4. M.A.Harish -> github.com/https://github.com/harish069
 
 ## About Project
-Tata Cliq is an Indian e-commerce company that retailslifestyle products.Built the frontend page of Login and Signup.Developed the landing page with responsiveness.Built the whole product page with sorting features andresponsiveness.Built the Address page and Payment page usingMongoDB.
+Tata Cliq is an Indian e-commerce company that retailslifestyle products. Built the frontend page of Login and Signup. Developed the landing page with responsiveness.Built the whole product page with sorting features andresponsiveness. Built the Address page and Payment page usingMongoDB.
 
 ## Build With
 * HTML5
