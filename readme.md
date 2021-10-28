@@ -11,7 +11,7 @@ As a part of our build week we were given a problem statement to clone the websi
 4. M.A.Harish -> github.com/https://github.com/harish069
 
 ## About Project
-Tata Cliq (stylised as Tata CLiQ) is an Indian e-commerce company based in Mumbai, India.[2] It is owned by Tata UniStore Limited, of Tata Group.[3] TataCLiQ operates in categories such as Electronics, Fashion, Footwear and Accessories. Tata Group's E-commerce platform Tata CLiQ also launched a premium and luxury fashion and lifestyle destination, Tata CLiQ Luxury and It have house a wide range of apparel and accessories for men and women by luxury and bridge-to-luxury brands.
+Tata Cliq is an Indian e-commerce company that retailslifestyle products.Built the frontend page of Login and Signup.Developed the landing page with responsiveness.Built the whole product page with sorting features andresponsiveness.Built the Address page and Payment page usingMongoDB.
 
 ## Build With
 * HTML5
